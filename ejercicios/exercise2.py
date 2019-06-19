@@ -2,4 +2,8 @@ def getAscii(number):
   asciiChar = chr(number)
   return asciiChar
 
-print (getAscii(35))
+def getAsciiAlt(number):
+  return chr(number)
+
+print (getAscii(65))
+print (getAsciiAlt(65))
