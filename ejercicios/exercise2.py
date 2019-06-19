@@ -7,3 +7,5 @@ def getAsciiAlt(number):
 
 print (getAscii(65))
 print (getAsciiAlt(65))
+
+## CHECKED

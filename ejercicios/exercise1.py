@@ -10,3 +10,5 @@ def reverseAlternative(string):
 
 print(reverse(str))
 print(reverseAlternative(str))
+
+## CHECKED
